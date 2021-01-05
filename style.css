@@ -1,0 +1,36 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+#main {
+    padding: 0;
+}
+
+#title {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#img-div {
+    background-color: lightgrey;
+    padding: 1em 0;
+}
+
+#img-caption {
+    text-align: inherit;
+}
+/*
+a {
+    text-decoration: none;
+}
+*/
+a:hover {
+    color: pink;
+}
