@@ -19,7 +19,8 @@ body {
 }
 
 #img-div {
-    background-color: lightgrey;
+/*    background-color: lightgrey; */
+    background: linear-gradient(black, lightgray);
     padding: 1em 0;
 }
 
@@ -39,12 +40,12 @@ a:hover {
 * {
     box-sizing: border-box;
   }
-  
+  /*
   body {
     margin: 0;
     font-family: Arial;
   }
-  /*
+  
   .header {
     text-align: center;
     padding: 32px;
